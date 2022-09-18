@@ -7,7 +7,7 @@ verify_ssl	= true
 python_version		= "3.8"
 
 [packages]
-Django				= "==3.2.5"
+Django				= "==3.2.15"
 requests			= ">=2.25.1"
 martor				= "==1.6.3"
 pypandoc			= "==1.6.3"
